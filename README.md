@@ -45,33 +45,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilgoyani&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darshilgoyani&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=darshilgoyani&theme=dracula&no-frame=true&row=1&column=7" />
 </p>
 
 ---
-
-## 🌊 Wavy Animation Divider  
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer" />
 
----
-
-## 🎶 While Coding...  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/darshilgoyani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:darshilgoyani@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://darshilgoyani.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/darshil-goyani-06ab8a360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:darshilgoyani05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://darshilgoyani.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
