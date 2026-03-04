@@ -1,70 +1,60 @@
-<!-- Glitch Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/pZbWq4b/glitch-banner.gif" alt="Darshil Goyani | Fullstack Developer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=Darshil%20Goyani&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFB&center=true&vCenter=true&random=false&width=700&lines=Hi+👋,+I'm+Darshil+Goyani;Fullstack+Developer+%7C+MERN+Stack+Dev;Building+Interactive+Frontend+💻;Crafting+Scalable+Backend+⚡;Exploring+Cloud+%26+DevOps+☁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFB&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Developer+🚀;Frontend+Expert+✨;Backend+Architect+⚡;MERN+Stack+Enthusiast+🌐;Java+%26+Spring+Boot+Explorer+☕" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌀 About Me
-💡 **Innovator** | 💻 **Fullstack Dev** | 🚀 **Lifelong Learner**  
-⚡ Turning **ideas into real-world applications** with **MERN + Cloud + Databases**  
-🔥 Love experimenting with **modern frameworks & futuristic UI/UX**  
-🎯 Goal: To become a **Top 1% developer with impact-driven projects**  
+## ⚡ Quick Bit
+I'm a **Fullstack Developer** focused on building robust and scalable web applications. I love bridging the gap between elegant user interfaces and powerful backend logic.
+
+* 🚀 Currently building: **[FileSprint](https://github.com/darshilgoyani/FileSprint)** (A high-speed file sharing app)
+* 💻 Strengthening: **Fullstack Architectures (MERN & Java/Spring)**
+* 🎨 Passionate about: **Clean Code & Seamless User Experience**
 
 ---
 
-## ⚔️ Tech Arsenal  
+## ⚔️ Tech Arsenal
 
-<div align="center">
+### 🎨 Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,gsap,figma" />
+</p>
 
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,gsap" />
+### ⚙️ Backend & DB
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,spring,mysql" />
+</p>
 
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
-
-### 🛢 Database  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-### ☁️ Tools & DevOps  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel,linux" />
-
-</div>
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,postman" />
+</p>
 
 ---
 
-## 🌈 Dynamic Stats  
-
+## 🌈 My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshilgoyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilgoyani&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshilgoyani&theme=dracula&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshilgoyani&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer" />
 
-
----
-
-## 🌐 Connect With Me  
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/darshil-goyani-06ab8a360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:darshilgoyani05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://darshilgoyani.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
----
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer" width="100%"/>
+</p>
