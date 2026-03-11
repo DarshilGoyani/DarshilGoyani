@@ -52,7 +52,7 @@ I'm a **Fullstack Developer** focused on building robust and scalable web applic
 <p align="center">
   <a href="https://www.linkedin.com/in/darshil-goyani-06ab8a360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:darshilgoyani05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://darshilgoyani.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://3d-portfolio-darshil-goyani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 <p align="center">
